@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/patrickomatik-mcp-bash-badge.png)](https://mseep.ai/app/patrickomatik-mcp-bash)
+
 # MCP Bash
 
 A simple Model-Context-Protocol (MCP) server for executing bash commands. This project allows you to execute bash commands via an MCP server interface, with all the potential security risks that entails! I couldn't find anything else like this in the public domain at the time of writing, so I wrote my own. It's a boon when getting Claude Desktop to write code (it can run the tests, assess the results and fix the issues is finds in one pass.)
